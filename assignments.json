@@ -1,0 +1,25 @@
+[
+    {
+      "id": "assignment1",
+      "title": "Abstract Still Life",
+      "purpose": "To explore abstract representation of everyday objects and develop composition skills.",
+      "media": "Oil Pastels on Paper",
+      "description": "This assignment focused on moving beyond realistic depiction and capturing the essence of still life through abstract forms and colors. We experimented with different perspectives and mark-making techniques."
+      , "images": ["image1.jpg", "image2.jpg"]
+    },
+    {
+      "id": "assignment2",
+      "title": "Portrait in Charcoal",
+      "purpose": "To learn fundamental portrait drawing techniques using charcoal and understand human proportions.",
+      "media": "Charcoal on Newsprint",
+      "description": "We practiced drawing portraits from live models, focusing on capturing likeness, shading, and understanding facial anatomy. This assignment emphasized observation and building form with charcoal."
+    },
+    {
+      "id": "assignment3",
+      "title": "Landscape Painting - Watercolor",
+      "purpose": "To explore watercolor techniques for landscape painting and understand atmospheric perspective.",
+      "media": "Watercolor on Watercolor Paper",
+      "description": "This outdoor painting assignment involved capturing the local landscape using watercolors. We focused on layering washes, creating depth with atmospheric perspective, and mixing colors on the fly."
+    }
+    
+  ]
